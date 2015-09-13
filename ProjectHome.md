@@ -1,0 +1,1 @@
+Esse projeto segue a mesma linha dos anteriores, com apenas poucas novidades e que são relacionadas principalmente pelo uso de um emulador ao inves do proprio jogo.
